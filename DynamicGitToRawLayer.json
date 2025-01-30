@@ -1,0 +1,64 @@
+[
+    {
+        "relativeURLs_git" : "Krishna-M19/AdventureWorks-DataEngineeringProject/refs/heads/main/Data/AdventureWorks_Calendar.csv",
+        "Dynamic_sink_folder" : "AdventureWorks_Calendar",
+        "allDataFiles" : "AdventureWorks_Calendar.csv"
+
+    },
+
+    {
+        "relativeURLs_git" : "Krishna-M19/AdventureWorks-DataEngineeringProject/refs/heads/main/Data/AdventureWorks_Product_Categories.csv",
+        "Dynamic_sink_folder" : "AdventureWorks_Product_Categories",
+        "allDataFiles" : "AdventureWorks_Product_Categories.csv"
+
+    },
+    {
+        "relativeURLs_git" : "Krishna-M19/AdventureWorks-DataEngineeringProject/refs/heads/main/Data/AdventureWorks_Customers.csv",
+        "Dynamic_sink_folder" : "AdventureWorks_Customers",
+        "allDataFiles" : "AdventureWorks_Customers.csv"
+
+    },
+    {
+        "relativeURLs_git" : "Krishna-M19/AdventureWorks-DataEngineeringProject/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
+        "Dynamic_sink_folder" : "AdventureWorks_Product_Subcategories",
+        "allDataFiles" : "AdventureWorks_Product_Subcategories.csv"
+
+    },
+    {
+        "relativeURLs_git" : "Krishna-M19/AdventureWorks-DataEngineeringProject/refs/heads/main/Data/AdventureWorks_Products.csv",
+        "Dynamic_sink_folder" : "AdventureWorks_Products",
+        "allDataFiles" : "AdventureWorks_Products.csv"
+
+    },
+    {
+        "relativeURLs_git" : "Krishna-M19/AdventureWorks-DataEngineeringProject/refs/heads/main/Data/AdventureWorks_Returns.csv",
+        "Dynamic_sink_folder" : "AdventureWorks_Returns",
+        "allDataFiles" : "AdventureWorks_Returns.csv"
+
+    },
+    {
+        "relativeURLs_git" : "Krishna-M19/AdventureWorks-DataEngineeringProject/refs/heads/main/Data/AdventureWorks_Sales_2015.csv",
+        "Dynamic_sink_folder" : "AdventureWorks_Sales_2015",
+        "allDataFiles" : "AdventureWorks_Sales_2015.csv"
+
+    },
+    {
+        "relativeURLs_git" : "Krishna-M19/AdventureWorks-DataEngineeringProject/refs/heads/main/Data/AdventureWorks_Sales_2016.csv",
+        "Dynamic_sink_folder" : "AdventureWorks_Sales_2016",
+        "allDataFiles" : "AdventureWorks_Sales_2016.csv"
+
+    },
+    {
+        "relativeURLs_git" : "Krishna-M19/AdventureWorks-DataEngineeringProject/refs/heads/main/Data/AdventureWorks_Sales_2017.csv",
+        "Dynamic_sink_folder" : "AdventureWorks_Sales_2017",
+        "allDataFiles" : "AdventureWorks_Sales_2017.csv"
+
+    },
+    {
+        "relativeURLs_git" : "Krishna-M19/AdventureWorks-DataEngineeringProject/refs/heads/main/Data/AdventureWorks_Territories.csv",
+        "Dynamic_sink_folder" : "AdventureWorks_Territories",
+        "allDataFiles" : "AdventureWorks_Territories.csv"
+
+    }
+
+]
