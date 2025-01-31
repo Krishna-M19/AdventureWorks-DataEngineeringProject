@@ -63,13 +63,12 @@
 ### Steps Involved:
 
 #### Azure Synapse Analytics Setup:
-- Created an Azure Synapse Analytics resource to act as the serving layer, enabling data querying and analysis.
-- Configured **SQL Pools** (both **dedicated** and **serverless**) for querying data.
-- Created a **Spark Pool** within Synapse for data processing and transformation tasks.
-- Utilized the **Data Integration** and **Develop** options in Synapse for orchestrating pipelines and running Spark code.
+- Leveraged Synapse SQL Pools (both serverless and dedicated) to access and manage the data in the silver container of Azure Data Lake and transform it for consumption in the gold container.
+- Using serverless SQL pools, created an abstraction layer (a.k.a. data lakehouse) is an efficient way to decouple storage from compute while enabling fast data querying without physically moving the data from the Data Lake.
 
 #### Permissions and Security Setup:
 - Used **System Managed Identity** to set up permissions for Synapse to access both silver and gold containers in the Data Lake.
+- Utilized **Database Scoped Credentials** to manage security for external data sources, which helps keep sensitive data secure.
 - Created role assignments and Managed Identity within the Data Lake’s IAM settings to ensure secure access between Synapse and the Data Lake.
 
 #### Serverless SQL Pool and Data Abstraction:
