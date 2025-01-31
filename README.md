@@ -1,5 +1,8 @@
 # AdventureWorks Real-time Data Engineering Project on Azure Data Engineering
 
+### Summary:
+This project effectively demonstrates a full **Real-time Data Engineering** pipeline using **Azure Data Engineering** tools. By combining **Azure Data Factory**, **Azure Databricks**, and **Azure Synapse Analytics**, the project efficiently processes raw data, transforms it, and makes it available for reporting and analysis via **Power BI**. The solution follows the **Medallion Architecture** (Bronze, Silver, Gold layers) for optimized data storage and processing, making it scalable and secure for large-scale analytics.
+
 ## Phase 1: Data Ingestion and Raw Data Storage
 
 ### Objective:
@@ -104,6 +107,3 @@
 - Utilized **DirectQuery** mode to query Synapse SQL Pools in real-time for up-to-date reporting.
 
 ---
-
-### Summary:
-This project effectively demonstrates a full **Real-time Data Engineering** pipeline using **Azure Data Engineering** tools. By combining **Azure Data Factory**, **Azure Databricks**, and **Azure Synapse Analytics**, the project efficiently processes raw data, transforms it, and makes it available for reporting and analysis via **Power BI**. The solution follows the **Medallion Architecture** (Bronze, Silver, Gold layers) for optimized data storage and processing, making it scalable and secure for large-scale analytics.
