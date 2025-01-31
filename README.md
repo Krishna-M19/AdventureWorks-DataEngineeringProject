@@ -1,5 +1,4 @@
-# AdventureWorks-DataEngineeringProject
-# Real-time Data Engineering Project on Azure Data Engineering
+# AdventureWorks Real-time Data Engineering Project on Azure Data Engineering
 
 ## Phase 1: Data Ingestion and Raw Data Storage
 
@@ -15,7 +14,7 @@
 
 #### Azure Data Factory Setup:
 - Created an Azure Data Factory (ADF) instance for orchestrating data ingestion pipelines.
-- Built an **HTTP Linked Service** to connect ADF to external data sources (in this case, GitHub API).
+- Built an **HTTP Linked Service** to connect ADF to external data sources (in this case, GitHub API's).
 - Created an **Azure Data Lake Storage Gen2 Linked Service** for connecting ADF to the Data Lake.
 
 #### Dynamic Pipeline Creation in ADF:
